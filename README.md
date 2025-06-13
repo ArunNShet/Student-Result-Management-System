@@ -1,11 +1,11 @@
 # 🎓 Student Result Management System
 
-A web-based application developed during a full-stack web development internship to digitalize and simplify the process of managing and viewing student results in educational institutions.
+A web-based application is developed and simplify the process of managing and viewing student results in educational institutions.
 
 ## 🚀 Features
 
 - **Admin Panel**  
-  - Add/update/delete student details  
+  - Add/update student details  
   - Enter and manage student results  
   - Automated total, percentage, and grade calculation  
 
@@ -30,13 +30,7 @@ A web-based application developed during a full-stack web development internship
 ## 🔐 Security
 
 - Secure login system for both Admin and Students  
-- Role-based access control  
-
-## 📄 Future Enhancements
-
-- PDF report card generation  
-- Teacher role for limited data entry  
-- Email result notifications  
+- Role-based access control    
 
 ## 📷 Screenshots
 
@@ -46,5 +40,5 @@ _Add UI screenshots here if available_
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-result-management.git
+   git clone https://github.com/ArunNShet/student-result-management.git
 # Student-Result-Management-System
