@@ -41,7 +41,7 @@ A web-based application is developed and simplify the process of managing and vi
 ![Index Page](assets/index-page.jpg)
 
 ## 🧾 Result Page Screenshot
-![Index Page](assets/result-page.jpg)
+![Result Page](assets/result-page.jpg)
 
 ## 📁 Setup Instructions
 
