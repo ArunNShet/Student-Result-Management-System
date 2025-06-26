@@ -1,4 +1,4 @@
-# 🎓 Student Result Management System
+![image](https://github.com/user-attachments/assets/fbe1907e-674a-47eb-84f0-4857a49b5960)![image](https://github.com/user-attachments/assets/fbe1907e-674a-47eb-84f0-4857a49b5960)# 🎓 Student Result Management System
 
 A web-based application is developed and simplify the process of managing and viewing student results in educational institutions.
 
@@ -41,7 +41,7 @@ A web-based application is developed and simplify the process of managing and vi
 ![Index Page](assets/index-page.jpg)
 
 ## 🧾 Result Page Screenshot
-![Result Page]()
+![Result Page](assets/result-page.jpg)
 
 ## 📁 Setup Instructions
 
