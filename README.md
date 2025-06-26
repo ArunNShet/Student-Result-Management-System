@@ -33,12 +33,14 @@ A web-based application is developed and simplify the process of managing and vi
 - Role-based access control    
 
 ## 📷 Screenshots
+**Login Page
+results/login-page.jpg
+**Index Page
+results/index-page.jpg
 
-_Add UI screenshots here if available_
 
 ## 📁 Setup Instructions
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ArunNShet/student-result-management.git
-# Student-Result-Management-System
+   git clone https://github.com/ArunNShet/Student-Result-Management-System.git
