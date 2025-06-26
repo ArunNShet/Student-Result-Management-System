@@ -34,9 +34,9 @@ A web-based application is developed and simplify the process of managing and vi
 
 ## 📷 Screenshots
 **Login Page
-results/login-page.jpg
+/result/login-page.jpg
 **Index Page
-results/index-page.jpg
+/result/index-page.jpg
 
 
 ## 📁 Setup Instructions
