@@ -33,11 +33,12 @@ A web-based application is developed and simplify the process of managing and vi
 - Role-based access control    
 
 ## 📷 Screenshots
-**Login Page
-/result/login-page.jpg
-**Index Page
-/result/index-page.jpg
 
+### 🔐 Login Page
+![Login Page](result/login-page.jpg)
+
+### 🏠 Index Page
+![Index Page](result/index-page.jpg)
 
 ## 📁 Setup Instructions
 
