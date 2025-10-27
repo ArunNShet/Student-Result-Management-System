@@ -37,9 +37,6 @@ A web-based application is developed and simplify the process of managing and vi
 ### 🔐 Login Page
 ![Login Page](assets/login-page.jpg)
 
-### 🏠 Index Page
-![Index Page](assets/index-page.jpg)
-
 ## 🧾 Result Page Screenshot
 ![Result Page](assets/Result-page.jpg)
 
